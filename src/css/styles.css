@@ -329,7 +329,9 @@ blockquote cite {
   margin: 0;
 }
 
-.box-external-link iframe {
+.box-external-link iframe,
+.box-external-link object,
+.box-external-link embed {
   width: 100%;
   height: 16rem;
   object-fit: cover;
@@ -337,7 +339,7 @@ blockquote cite {
   border: 1px solid black;
 }
 
-iframe {
+iframe, object, embed {
   border: none;
 }
 
