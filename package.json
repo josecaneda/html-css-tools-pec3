@@ -1,6 +1,6 @@
 {
   "name": "parcel-first-step",
-  "source": "src/index.html",
+  "source": "src/links.html",
   "browserslist": "chrome 50",
   "scripts": {
     "parcel:dev": "parcel",
