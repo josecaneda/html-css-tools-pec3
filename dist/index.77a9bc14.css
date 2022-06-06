@@ -66,15 +66,16 @@ main {
   background-size: cover;
   background-repeat: no-repeat;
   background-position: 50% 40%;
+
 }
 
 .title-text {
-  font-size: 3.25rem;
+  font-size: 3.75rem;
   -webkit-text-decoration-color: white;
           text-decoration-color: white;
   color: white;
-  display: grid;
-  grid-template-columns: 30rem;
+  -webkit-text-stroke: 1px #273746;;
+  max-width: 40rem;
 }
 
 nav {
