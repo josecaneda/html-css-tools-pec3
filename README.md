@@ -9,3 +9,19 @@ Antes de la primera iteración:
 - Establecer el atributo `async` en la etiqueta `<script async type="module" src="app/app.js"></script>`
 
 Después de la segunda iteración:
+
+npm install -dev @parcel/compressor-gzip @parcel/compressor-brotli
+
+.parcelrc:
+
+```
+{
+  "compressors": {
+    "*.{html,css,js,svg,map}": [
+      "...",
+      "@parcel/compressor-gzip",
+      "@parcel/compressor-brotli"
+    ]
+  }
+}
+```

@@ -17,6 +17,8 @@
     "sharp": "^0.29.3"
   },
   "dependencies": {
+    "@parcel/compressor-brotli": "^2.6.0",
+    "@parcel/compressor-gzip": "^2.6.0",
     "autoprefixer": "^10.4.2",
     "toast-me": "^1.4.8"
   }
