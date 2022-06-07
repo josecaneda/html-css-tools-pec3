@@ -25,5 +25,3 @@ npm install -dev @parcel/compressor-gzip @parcel/compressor-brotli
   }
 }
 ```
-
-git
