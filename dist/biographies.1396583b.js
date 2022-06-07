@@ -53,18 +53,18 @@ const biographyTextBuzzAldrin = `<p>Edwin Eugene Aldrin Jr. nació el 20 de ener
     asistió a la Severn School por recomendación de su padre, cuya intención de 
     enrolarlo en la Academia Naval en Annapolis, Maryland, le llevó 
     inclusive a concertarle una reunión con el senador Albert W. Hawkes,
-     a final de cuentas el joven eligió la aviación, ya que sufría de mareos. Por este motivo, 
-     le pidió a su padre que le dijera a Hawkes que su verdadero interés era formarse 
-     en la Academia Militar de los Estados Unidos en West Point, New York.</p>
-     
-     <p>Su admisión a la Academia Militar se efectuó en 1947, y en su 
-     primer año obtuvo notas favorables que le llevaron a ser reconocido como 
-     el «mejor de su clase». También formó parte del equipo de atletismo de la institución.
-      A manera anecdótica, le tocó presenciar en 1950 el estallido de la guerra de 
-      orea mientras se encontraba en Japón y Filipinas como parte de un viaje 
-      realizado para estudiar las políticas militares de Douglas MacArthur. Finalmente 
-      el 5 de junio de 1951 se graduó con el tercer mejor promedio de su clase y 
-      obtuvo un grado de licenciatura en ciencias en ingeniería mecánica.</p>`;
+    a final de cuentas el joven eligió la aviación, ya que sufría de mareos. Por este motivo, 
+    le pidió a su padre que le dijera a Hawkes que su verdadero interés era formarse 
+    en la Academia Militar de los Estados Unidos en West Point, New York.</p>
+    
+    <p>Su admisión a la Academia Militar se efectuó en 1947, y en su 
+    primer año obtuvo notas favorables que le llevaron a ser reconocido como 
+    el «mejor de su clase». También formó parte del equipo de atletismo de la institución.
+    A manera anecdótica, le tocó presenciar en 1950 el estallido de la guerra de 
+    orea mientras se encontraba en Japón y Filipinas como parte de un viaje 
+    realizado para estudiar las políticas militares de Douglas MacArthur. Finalmente 
+    el 5 de junio de 1951 se graduó con el tercer mejor promedio de su clase y 
+    obtuvo un grado de licenciatura en ciencias en ingeniería mecánica.</p>`;
 const biographyTextPeteConrad = `<p>Conrad nació en Filadelfia, Estado de Pensilvania (EE. UU.). 
     Tras licenciarse en Ingeniería Aeronáutica por la Universidad de 
     Princeton en el año 1953, logró entrar en la Marina de los Estados Unidos de 
