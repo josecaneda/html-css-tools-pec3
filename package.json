@@ -1,7 +1,7 @@
 {
   "name": "parcel-first-step",
   "source": "src/index.html",
-  "browserslist": "chrome 50",
+  "browserslist": "chrome 90",
   "scripts": {
     "parcel:dev": "parcel",
     "parcel:build": "parcel build",
