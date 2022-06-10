@@ -437,7 +437,16 @@ label.quiz-option {
 }
 
 .neil-armstrong, .neil-armstrong-detail {
-  content: url('../img/neil-armstrong-01.jpg');
+  /* content: url('../img/neil-armstrong-01.jpg'); */
+
+  content: -webkit-image-set(
+    url("../img/neil-armstrong-01.webp") 1x,
+    url("../img/neil-armstrong-01.jpg") 1x );
+
+  content: image-set(
+    url("../img/neil-armstrong-01.webp") 1x,
+    url("../img/neil-armstrong-01.jpg") 1x );
+
 }
 
 .neil-armstrong:hover, .neil-armstrong-detail {
@@ -445,7 +454,15 @@ label.quiz-option {
 }
 
 .buzz-aldrin, .buzz-aldrin-detail {
-  content: url('../img/buzz-aldrin-01.jpg');
+  /* content: url('../img/buzz-aldrin-01.jpg'); */
+
+  content: -webkit-image-set(
+    url("../img/buzz-aldrin-01.webp") 1x,
+    url("../img/buzz-aldrin-01.jpg") 1x );
+
+  content: image-set(
+    url("../img/buzz-aldrin-01.webp") 1x,
+    url("../img/buzz-aldrin-01.jpg") 1x );
 }
 
 .buzz-aldrin:hover, .buzz-aldrin-detail {
@@ -453,7 +470,17 @@ label.quiz-option {
 }
 
 .pete-conrad, .pete-conrad-detail {
-  content: url('../img/pete-conrad-01.jpg');
+  /* content: url('../img/pete-conrad-01.jpg'); */
+
+  content: -webkit-image-set(
+    url("../img/pete-conrad-01.webp") 1x,
+    url("../img/pete-conrad-01.jpg") 1x );
+
+  content: image-set(
+    url("../img/pete-conrad-01.webp") 1x,
+    url("../img/pete-conrad-01.jpg") 1x );
+
+  
 }
 
 .pete-conrad:hover, .pete-conrad-detail {
@@ -461,7 +488,15 @@ label.quiz-option {
 }
 
 .alan-l-bean, .alan-l-bean-detail {
-  content: url('../img/alan-l-bean-01.jpg');
+  /* content: url('../img/alan-l-bean-01.jpg'); */
+
+  content: -webkit-image-set(
+    url("../img/alan-l-bean-01.webp") 1x,
+    url("../img/alan-l-bean-01.jpg") 1x );
+
+  content: image-set(
+    url("../img/alan-l-bean-01.webp") 1x,
+    url("../img/alan-l-bean-01.jpg") 1x );
 }
 
 .alan-l-bean:hover, .alan-l-bean-detail {
@@ -469,7 +504,15 @@ label.quiz-option {
 }
 
 .alan-shepard, .alan-shepard-detail  {
-  content: url('../img/alan-shepard-01.jpg');
+  /* content: url('../img/alan-shepard-01.jpg'); */
+
+  content: -webkit-image-set(
+    url("../img/alan-shepard-01.webp") 1x,
+    url("../img/alan-shepard-01.jpg") 1x );
+
+  content: image-set(
+    url("../img/alan-shepard-01.webp") 1x,
+    url("../img/alan-shepard-01.jpg") 1x );
 }
 
 .alan-shepard:hover, .alan-shepard-detail {
@@ -478,106 +521,345 @@ label.quiz-option {
 
 @keyframes animation-neil-armstrong {
   0% {
-    content: url('../img/neil-armstrong-01.jpg');
+    /* content: url('../img/neil-armstrong-01.jpg'); */
+    content: -webkit-image-set(
+      url("../img/neil-armstrong-01.webp") 1x,
+      url("../img/neil-armstrong-01.jpg") 1x );
+
+    content: image-set(
+      url("../img/neil-armstrong-01.webp") 1x,
+      url("../img/neil-armstrong-01.jpg") 1x );
   }
   20% {
-    content: url('../img/neil-armstrong-02.jpg');
+    /* content: url('../img/neil-armstrong-02.jpg'); */
+
+    content: -webkit-image-set(
+      url("../img/neil-armstrong-02.webp") 1x,
+      url("../img/neil-armstrong-02.jpg") 1x );
+
+    content: image-set(
+      url("../img/neil-armstrong-02.webp") 1x,
+      url("../img/neil-armstrong-02.jpg") 1x );
   }
   40% {
-    content: url('../img/neil-armstrong-03.jpg');
+    /* content: url('../img/neil-armstrong-03.jpg'); */
+
+    content: -webkit-image-set(
+      url("../img/neil-armstrong-03.webp") 1x,
+      url("../img/neil-armstrong-03.jpg") 1x );
+
+    content: image-set(
+      url("../img/neil-armstrong-03.webp") 1x,
+      url("../img/neil-armstrong-03.jpg") 1x );
   }
   60% {
-    content: url('../img/neil-armstrong-04.jpg');
+    /* content: url('../img/neil-armstrong-04.jpg'); */
+
+    content: -webkit-image-set(
+      url("../img/neil-armstrong-04.webp") 1x,
+      url("../img/neil-armstrong-04.jpg") 1x );
+
+    content: image-set(
+      url("../img/neil-armstrong-04.webp") 1x,
+      url("../img/neil-armstrong-04.jpg") 1x );
   }
   80% {
-    content: url('../img/neil-armstrong-05.jpg');
+    /* content: url('../img/neil-armstrong-05.jpg'); */
+
+    content: -webkit-image-set(
+      url("../img/neil-armstrong-05.webp") 1x,
+      url("../img/neil-armstrong-05.jpg") 1x );
+
+    content: image-set(
+      url("../img/neil-armstrong-05.webp") 1x,
+      url("../img/neil-armstrong-05.jpg") 1x );
   }
   100% {
-    content: url('../img/neil-armstrong-06.jpg');
+    /* content: url('../img/neil-armstrong-06.jpg'); */
+
+    content: -webkit-image-set(
+      url("../img/neil-armstrong-06.webp") 1x,
+      url("../img/neil-armstrong-06.jpg") 1x );
+
+    content: image-set(
+      url("../img/neil-armstrong-06.webp") 1x,
+      url("../img/neil-armstrong-06.jpg") 1x );
   }
 }
 
 @keyframes animation-buzz-aldrin {
   0% {
-    content: url('../img/buzz-aldrin-01.jpg');
+    /* content: url('../img/buzz-aldrin-01.jpg'); */
+
+    content: -webkit-image-set(
+      url("../img/buzz-aldrin-01.webp") 1x,
+      url("../img/buzz-aldrin-01.jpg") 1x );
+
+    content: image-set(
+      url("../img/buzz-aldrin-01.webp") 1x,
+      url("../img/buzz-aldrin-01.jpg") 1x );
   }
   20% {
-    content: url('../img/buzz-aldrin-02.jpg');
+    /* content: url('../img/buzz-aldrin-02.jpg'); */
+
+    content: -webkit-image-set(
+      url("../img/buzz-aldrin-02.webp") 1x,
+      url("../img/buzz-aldrin-02.jpg") 1x );
+
+    content: image-set(
+      url("../img/buzz-aldrin-02.webp") 1x,
+      url("../img/buzz-aldrin-02.jpg") 1x );
   }
   40% {
-    content: url('../img/buzz-aldrin-03.jpg');
+    /* content: url('../img/buzz-aldrin-03.jpg'); */
+
+    content: -webkit-image-set(
+      url("../img/buzz-aldrin-03.webp") 1x,
+      url("../img/buzz-aldrin-03.jpg") 1x );
+
+    content: image-set(
+      url("../img/buzz-aldrin-03.webp") 1x,
+      url("../img/buzz-aldrin-03.jpg") 1x );
   }
   60% {
-    content: url('../img/buzz-aldrin-04.jpg');
+    /* content: url('../img/buzz-aldrin-04.jpg'); */
+
+    content: -webkit-image-set(
+      url("../img/buzz-aldrin-04.webp") 1x,
+      url("../img/buzz-aldrin-04.jpg") 1x );
+
+    content: image-set(
+      url("../img/buzz-aldrin-04.webp") 1x,
+      url("../img/buzz-aldrin-04.jpg") 1x );
   }
   80% {
-    content: url('../img/buzz-aldrin-05.jpg');
+    /* content: url('../img/buzz-aldrin-05.jpg'); */
+
+    content: -webkit-image-set(
+      url("../img/buzz-aldrin-05.webp") 1x,
+      url("../img/buzz-aldrin-05.jpg") 1x );
+
+    content: image-set(
+      url("../img/buzz-aldrin-05.webp") 1x,
+      url("../img/buzz-aldrin-05.jpg") 1x );
   }
   100% {
-    content: url('../img/buzz-aldrin-06.jpg');
+    /* content: url('../img/buzz-aldrin-06.jpg'); */
+
+    content: -webkit-image-set(
+      url("../img/buzz-aldrin-06.webp") 1x,
+      url("../img/buzz-aldrin-06.jpg") 1x );
+
+    content: image-set(
+      url("../img/buzz-aldrin-06.webp") 1x,
+      url("../img/buzz-aldrin-06.jpg") 1x );
   }
 }
 
 @keyframes animation-pete-conrad {
   0% {
-    content: url('../img/pete-conrad-01.jpg');
+    /* content: url('../img/pete-conrad-01.jpg'); */
+
+    content: -webkit-image-set(
+      url("../img/pete-conrad-01.webp") 1x,
+      url("../img/pete-conrad-01.jpg") 1x );
+
+    content: image-set(
+      url("../img/pete-conrad-01.webp") 1x,
+      url("../img/pete-conrad-01.jpg") 1x );
   }
   20% {
-    content: url('../img/pete-conrad-02.jpg');
+    /* content: url('../img/pete-conrad-02.jpg'); */
+
+    content: -webkit-image-set(
+      url("../img/pete-conrad-02.webp") 1x,
+      url("../img/pete-conrad-02.jpg") 1x );
+
+    content: image-set(
+      url("../img/pete-conrad-02.webp") 1x,
+      url("../img/pete-conrad-02.jpg") 1x );
   }
   40% {
-    content: url('../img/pete-conrad-03.jpg');
+    /* content: url('../img/pete-conrad-03.jpg'); */
+
+    content: -webkit-image-set(
+      url("../img/pete-conrad-03.webp") 1x,
+      url("../img/pete-conrad-03.jpg") 1x );
+
+    content: image-set(
+      url("../img/pete-conrad-03.webp") 1x,
+      url("../img/pete-conrad-03.jpg") 1x );
   }
   60% {
-    content: url('../img/pete-conrad-04.jpg');
+    /* content: url('../img/pete-conrad-04.jpg'); */
+
+    content: -webkit-image-set(
+      url("../img/pete-conrad-04.webp") 1x,
+      url("../img/pete-conrad-04.jpg") 1x );
+
+    content: image-set(
+      url("../img/pete-conrad-04.webp") 1x,
+      url("../img/pete-conrad-04.jpg") 1x );
   }
   80% {
-    content: url('../img/pete-conrad-05.jpg');
+    /* content: url('../img/pete-conrad-05.jpg'); */
+
+    content: -webkit-image-set(
+      url("../img/pete-conrad-05.webp") 1x,
+      url("../img/pete-conrad-05.jpg") 1x );
+
+    content: image-set(
+      url("../img/pete-conrad-05.webp") 1x,
+      url("../img/pete-conrad-05.jpg") 1x );
   }
   100% {
-    content: url('../img/pete-conrad-06.jpg');
+    /* content: url('../img/pete-conrad-06.jpg'); */
+
+    content: -webkit-image-set(
+      url("../img/pete-conrad-06.webp") 1x,
+      url("../img/pete-conrad-06.jpg") 1x );
+
+    content: image-set(
+      url("../img/pete-conrad-06.webp") 1x,
+      url("../img/pete-conrad-06.jpg") 1x );
   }
 }
 
 @keyframes animation-alan-l-bean {
   0% {
-    content: url('../img/alan-l-bean-01.jpg');
+    /* content: url('../img/alan-l-bean-01.jpg'); */
+
+    content: -webkit-image-set(
+      url("../img/alan-l-bean-01.webp") 1x,
+      url("../img/alan-l-bean-01.jpg") 1x );
+
+    content: image-set(
+      url("../img/alan-l-bean-01.webp") 1x,
+      url("../img/alan-l-bean-01.jpg") 1x );
   }
   20% {
-    content: url('../img/alan-l-bean-02.jpg');
+    /* content: url('../img/alan-l-bean-02.jpg'); */
+
+    content: -webkit-image-set(
+      url("../img/alan-l-bean-02.webp") 1x,
+      url("../img/alan-l-bean-02.jpg") 1x );
+
+    content: image-set(
+      url("../img/alan-l-bean-02.webp") 1x,
+      url("../img/alan-l-bean-02.jpg") 1x );
   }
   40% {
-    content: url('../img/alan-l-bean-03.jpg');
+    /* content: url('../img/alan-l-bean-03.jpg'); */
+
+    content: -webkit-image-set(
+      url("../img/alan-l-bean-03.webp") 1x,
+      url("../img/alan-l-bean-03.jpg") 1x );
+
+    content: image-set(
+      url("../img/alan-l-bean-03.webp") 1x,
+      url("../img/alan-l-bean-03.jpg") 1x );
   }
   60% {
-    content: url('../img/alan-l-bean-04.jpg');
+    /* content: url('../img/alan-l-bean-04.jpg'); */
+
+    content: -webkit-image-set(
+      url("../img/alan-l-bean-04.webp") 1x,
+      url("../img/alan-l-bean-04.jpg") 1x );
+
+    content: image-set(
+      url("../img/alan-l-bean-04.webp") 1x,
+      url("../img/alan-l-bean-04.jpg") 1x );
   }
   80% {
-    content: url('../img/alan-l-bean-05.jpg');
+    /* content: url('../img/alan-l-bean-05.jpg'); */
+
+    content: -webkit-image-set(
+      url("../img/alan-l-bean-05.webp") 1x,
+      url("../img/alan-l-bean-05.jpg") 1x );
+
+    content: image-set(
+      url("../img/alan-l-bean-05.webp") 1x,
+      url("../img/alan-l-bean-05.jpg") 1x );
   }
   100% {
-    content: url('../img/alan-l-bean-06.jpg');
+    /* content: url('../img/alan-l-bean-06.jpg'); */
+
+    content: -webkit-image-set(
+      url("../img/alan-l-bean-06.webp") 1x,
+      url("../img/alan-l-bean-06.jpg") 1x );
+
+    content: image-set(
+      url("../img/alan-l-bean-06.webp") 1x,
+      url("../img/alan-l-bean-06.jpg") 1x );
   }
 }
 
 @keyframes animation-alan-shepard {
   0% {
-    content: url('../img/alan-shepard-01.jpg');
+    /* content: url('../img/alan-shepard-01.jpg'); */
+
+    content: -webkit-image-set(
+      url("../img/alan-shepard-01.webp") 1x,
+      url("../img/alan-shepard-01.jpg") 1x );
+
+    content: image-set(
+      url("../img/alan-shepard-01.webp") 1x,
+      url("../img/alan-shepard-01.jpg") 1x );
   }
   20% {
-    content: url('../img/alan-shepard-02.jpg');
+    /* content: url('../img/alan-shepard-02.jpg'); */
+
+    content: -webkit-image-set(
+      url("../img/alan-shepard-02.webp") 1x,
+      url("../img/alan-shepard-02.jpg") 1x );
+
+    content: image-set(
+      url("../img/alan-shepard-02.webp") 1x,
+      url("../img/alan-shepard-02.jpg") 1x );
   }
   40% {
-    content: url('../img/alan-shepard-03.jpg');
+    /* content: url('../img/alan-shepard-03.jpg'); */
+
+    content: -webkit-image-set(
+      url("../img/alan-shepard-03.webp") 1x,
+      url("../img/alan-shepard-03.jpg") 1x );
+
+    content: image-set(
+      url("../img/alan-shepard-03.webp") 1x,
+      url("../img/alan-shepard-03.jpg") 1x );
   }
   60% {
-    content: url('../img/alan-shepard-04.jpg');
+    /* content: url('../img/alan-shepard-04.jpg'); */
+
+    content: -webkit-image-set(
+      url("../img/alan-shepard-04.webp") 1x,
+      url("../img/alan-shepard-04.jpg") 1x );
+
+    content: image-set(
+      url("../img/alan-shepard-04.webp") 1x,
+      url("../img/alan-shepard-04.jpg") 1x );
   }
   80% {
-    content: url('../img/alan-shepard-05.jpg');
+    /* content: url('../img/alan-shepard-05.jpg'); */
+
+    content: -webkit-image-set(
+      url("../img/alan-shepard-05.webp") 1x,
+      url("../img/alan-shepard-05.jpg") 1x );
+
+    content: image-set(
+      url("../img/alan-shepard-05.webp") 1x,
+      url("../img/alan-shepard-05.jpg") 1x );
   }
   100% {
-    content: url('../img/alan-shepard-06.jpg');
+    /* content: url('../img/alan-shepard-06.jpg'); */
+
+    content: -webkit-image-set(
+      url("../img/alan-shepard-06.webp") 1x,
+      url("../img/alan-shepard-06.jpg") 1x );
+
+    content: image-set(
+      url("../img/alan-shepard-06.webp") 1x,
+      url("../img/alan-shepard-06.jpg") 1x );
   }
 }
 
