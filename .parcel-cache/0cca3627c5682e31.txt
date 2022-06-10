@@ -1,4 +1,4 @@
-9860
+9861
 58C:\Users\J\Documents\GitHub\html-css-tools-pec3\.postcssrc132911621840704388 0
 85C:\Users\J\Documents\GitHub\html-css-tools-pec3\node_modules\graceful-fs\polyfills.js132988294688703268 0
 86C:\Users\J\Documents\GitHub\html-css-tools-pec3\node_modules\has-symbols\test\tests.js132988294809208963 0
@@ -15,7 +15,7 @@
 88C:\Users\J\Documents\GitHub\html-css-tools-pec3\node_modules\@parcel\events\package.json132988294855878331 0
 78C:\Users\J\Documents\GitHub\html-css-tools-pec3\node_modules\dotenv-expand\lib132988294709822516 1
 83C:\Users\J\Documents\GitHub\html-css-tools-pec3\node_modules\node-abi\test\index.js132988294620949389 0
-52C:\Users\J\Documents\GitHub\html-css-tools-pec3\dist132993608235488443 1
+52C:\Users\J\Documents\GitHub\html-css-tools-pec3\dist132993622364410047 1
 100C:\Users\J\Documents\GitHub\html-css-tools-pec3\node_modules\es-abstract\2017\IsGenericDescriptor.js132988295354480218 0
 85C:\Users\J\Documents\GitHub\html-css-tools-pec3\node_modules\abortcontroller-polyfill132988294866978940 1
 65C:\Users\J\Documents\GitHub\html-css-tools-pec3\sharp.config.json132993589716649614 0
@@ -25,7 +25,7 @@
 102C:\Users\J\Documents\GitHub\html-css-tools-pec3\node_modules\@parcel\reporter-dev-server\src\Server.js132988294804386119 0
 126C:\Users\J\Documents\GitHub\html-css-tools-pec3\node_modules\@parcel\compressor-gzip\node_modules\@parcel\workers\lib\Trace.js132990247554161121 0
 97C:\Users\J\Documents\GitHub\html-css-tools-pec3\node_modules\validate-npm-package-license\LICENSE132988294607427830 0
-60C:\Users\J\Documents\GitHub\html-css-tools-pec3\package.json132990247626208869 0
+60C:\Users\J\Documents\GitHub\html-css-tools-pec3\package.json132993621730600273 0
 99C:\Users\J\Documents\GitHub\html-css-tools-pec3\node_modules\@parcel\utils\src\isDirectoryInside.js132988295100791205 0
 85C:\Users\J\Documents\GitHub\html-css-tools-pec3\node_modules\string.prototype.trimend132988294884552468 1
 88C:\Users\J\Documents\GitHub\html-css-tools-pec3\node_modules\source-map\lib\array-set.js132988294702964030 0
@@ -94,7 +94,7 @@
 89C:\Users\J\Documents\GitHub\html-css-tools-pec3\node_modules\es-abstract\2015\MakeTime.js132988295365412231 0
 103C:\Users\J\Documents\GitHub\html-css-tools-pec3\node_modules\caniuse-lite\data\features\script-async.js132988295407468996 0
 75C:\Users\J\Documents\GitHub\html-css-tools-pec3\src\img\alan-l-bean-01.webp132993577874776760 0
-62C:\Users\J\Documents\GitHub\html-css-tools-pec3\src\index.html132993608525928655 0
+62C:\Users\J\Documents\GitHub\html-css-tools-pec3\src\index.html132993613110939171 0
 67C:\Users\J\Documents\GitHub\html-css-tools-pec3\node_modules\terser132988295131759588 1
 100C:\Users\J\Documents\GitHub\html-css-tools-pec3\node_modules\sharp\node_modules\node-addon-api\tools132988294948190060 1
 81C:\Users\J\Documents\GitHub\html-css-tools-pec3\node_modules\msgpackr\SECURITY.md132988294937842331 0
@@ -854,7 +854,7 @@
 103C:\Users\J\Documents\GitHub\html-css-tools-pec3\node_modules\utility-types\dist\aliases-and-guards.d.ts132988294887042472 0
 108C:\Users\J\Documents\GitHub\html-css-tools-pec3\node_modules\@parcel\core\lib\requests\ParcelBuildRequest.js132988295183972318 0
 125C:\Users\J\Documents\GitHub\html-css-tools-pec3\node_modules\sharp\vendor\8.11.3\win32-x64\include\orc-0.4\orc\orcbytecodes.h132734448000000000 0
-66C:\Users\J\Documents\GitHub\html-css-tools-pec3\src\css\styles.css132990167275490596 0
+66C:\Users\J\Documents\GitHub\html-css-tools-pec3\src\css\styles.css132993622361930053 0
 127C:\Users\J\Documents\GitHub\html-css-tools-pec3\node_modules\sharp\vendor\8.11.3\win32-x64\include\glib-2.0\gio\gsocketclient.h132734448000000000 0
 95C:\Users\J\Documents\GitHub\html-css-tools-pec3\node_modules\es-abstract\2021\IsStringPrefix.js132988295356310325 0
 90C:\Users\J\Documents\GitHub\html-css-tools-pec3\node_modules\es-abstract\2015\IsInteger.js132988295354590251 0
@@ -901,6 +901,7 @@
 98C:\Users\J\Documents\GitHub\html-css-tools-pec3\node_modules\postcss-minify-gradients\package.json132988294654999607 0
 79C:\Users\J\Documents\GitHub\html-css-tools-pec3\node_modules\.package-lock.json132990247626428884 0
 89C:\Users\J\Documents\GitHub\html-css-tools-pec3\node_modules\es-abstract\2015\ToNumber.js132988295404529091 0
+74C:\Users\J\Documents\GitHub\html-css-tools-pec3\dist\bg-home.fc978103.webp132993620236758793 0
 90C:\Users\J\Documents\GitHub\html-css-tools-pec3\node_modules\is-negative-zero\CHANGELOG.md132988294805252630 0
 117C:\Users\J\Documents\GitHub\html-css-tools-pec3\node_modules\@parcel\compressor-brotli\node_modules\@parcel\cache\src132990247524750660 1
 89C:\Users\J\Documents\GitHub\html-css-tools-pec3\node_modules\stylehacks\types\plugin.d.ts132988295077980568 0
@@ -5463,7 +5464,7 @@
 80C:\Users\J\Documents\GitHub\html-css-tools-pec3\node_modules\nanoid\url-alphabet132988294929819970 1
 90C:\Users\J\Documents\GitHub\html-css-tools-pec3\node_modules\nanoid\url-alphabet\index.cjs132988294781329626 0
 96C:\Users\J\Documents\GitHub\html-css-tools-pec3\node_modules\@parcel\transformer-babel\README.md132988294948210095 0
-82C:\Users\J\Documents\GitHub\html-css-tools-pec3\dist\emblem-apollo-17.a2c54c5e.png132993607702488924 0
+82C:\Users\J\Documents\GitHub\html-css-tools-pec3\dist\emblem-apollo-17.a2c54c5e.png132993621607818613 0
 104C:\Users\J\Documents\GitHub\html-css-tools-pec3\node_modules\es-abstract\2015\CreateListFromArrayLike.js132988295222734988 0
 113C:\Users\J\Documents\GitHub\html-css-tools-pec3\node_modules\@parcel\runtime-js\src\helpers\worker\wasm-loader.js132988295078000579 0
 89C:\Users\J\Documents\GitHub\html-css-tools-pec3\node_modules\nanoid\url-alphabet\index.js132988294865441185 0
@@ -5849,7 +5850,7 @@
 114C:\Users\J\Documents\GitHub\html-css-tools-pec3\node_modules\bl\node_modules\readable-stream\lib\_stream_duplex.js132988294594043677 0
 97C:\Users\J\Documents\GitHub\html-css-tools-pec3\node_modules\is-shared-array-buffer\test\index.js132988294712993842 0
 80C:\Users\J\Documents\GitHub\html-css-tools-pec3\node_modules\acorn\dist\acorn.js132988294769071865 0
-71C:\Users\J\Documents\GitHub\html-css-tools-pec3\dist\index.77a9bc14.css132993607702318914 0
+71C:\Users\J\Documents\GitHub\html-css-tools-pec3\dist\index.77a9bc14.css132993622364360041 0
 82C:\Users\J\Documents\GitHub\html-css-tools-pec3\node_modules\is-regex\CHANGELOG.md132988294807421964 0
 89C:\Users\J\Documents\GitHub\html-css-tools-pec3\node_modules\@parcel\packager-raw\LICENSE132988294546217567 0
 77C:\Users\J\Documents\GitHub\html-css-tools-pec3\node_modules\is-regex\LICENSE132988294680694285 0
@@ -9832,7 +9833,7 @@
 75C:\Users\J\Documents\GitHub\html-css-tools-pec3\dist\first-man.a244a017.png132993607702668945 0
 92C:\Users\J\Documents\GitHub\html-css-tools-pec3\dist\from-the-earth-to-the-moon.67bc7161.png132993607702668945 0
 88C:\Users\J\Documents\GitHub\html-css-tools-pec3\dist\html-css-tools-pec3.59712999.js.map132993607704373599 0
-75C:\Users\J\Documents\GitHub\html-css-tools-pec3\dist\index.77a9bc14.css.map132993607702348954 0
+75C:\Users\J\Documents\GitHub\html-css-tools-pec3\dist\index.77a9bc14.css.map132993622364360041 0
 63C:\Users\J\Documents\GitHub\html-css-tools-pec3\dist\index.html132993608235428418 0
 75C:\Users\J\Documents\GitHub\html-css-tools-pec3\dist\instagram.b6dad8a8.svg132993607702318914 0
 77C:\Users\J\Documents\GitHub\html-css-tools-pec3\dist\links-icon.17ac0345.jpeg132993607702348954 0
