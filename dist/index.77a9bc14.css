@@ -439,7 +439,7 @@ label.quiz-option {
 }
 
 .detail-bio-photo {
-  animation-duration: 60s;
+  animation-duration: 50s;
 }
 
 .neil-armstrong, .neil-armstrong-detail {
@@ -452,7 +452,6 @@ label.quiz-option {
   content: image-set(
     url("neil-armstrong-01.ef822026.webp") 1x,
     url("neil-armstrong-01.8cde65e6.jpeg") 1x );
-
 }
 
 .neil-armstrong:hover, .neil-armstrong-detail {
@@ -531,72 +530,70 @@ label.quiz-option {
     content: -webkit-image-set(
       url("neil-armstrong-01.ef822026.webp") 1x,
       url("neil-armstrong-01.8cde65e6.jpeg") 1x );
-
+    
     content: image-set(
       url("neil-armstrong-01.ef822026.webp") 1x,
       url("neil-armstrong-01.8cde65e6.jpeg") 1x );
+    
   }
   20% {
     /* content: url('../img/neil-armstrong-02.jpg'); */
-
     content: -webkit-image-set(
       url("neil-armstrong-02.dc1cca73.webp") 1x,
       url("neil-armstrong-02.df43e713.jpeg") 1x );
-
     content: image-set(
       url("neil-armstrong-02.dc1cca73.webp") 1x,
       url("neil-armstrong-02.df43e713.jpeg") 1x );
+
+      
   }
   40% {
     /* content: url('../img/neil-armstrong-03.jpg'); */
-
     content: -webkit-image-set(
       url("neil-armstrong-03.ddcafa22.webp") 1x,
       url("neil-armstrong-03.a67a18ab.jpeg") 1x );
-
+    
     content: image-set(
       url("neil-armstrong-03.ddcafa22.webp") 1x,
-      url("neil-armstrong-03.a67a18ab.jpeg") 1x );
+      url("neil-armstrong-03.a67a18ab.jpeg") 1x ); 
   }
   60% {
     /* content: url('../img/neil-armstrong-04.jpg'); */
-
     content: -webkit-image-set(
       url("neil-armstrong-04.26772e13.webp") 1x,
       url("neil-armstrong-04.700c3731.jpeg") 1x );
-
+      
+    
     content: image-set(
       url("neil-armstrong-04.26772e13.webp") 1x,
       url("neil-armstrong-04.700c3731.jpeg") 1x );
   }
   80% {
     /* content: url('../img/neil-armstrong-05.jpg'); */
-
     content: -webkit-image-set(
       url("neil-armstrong-05.52cec07d.webp") 1x,
       url("neil-armstrong-05.d6e64106.jpeg") 1x );
-
+    
     content: image-set(
       url("neil-armstrong-05.52cec07d.webp") 1x,
-      url("neil-armstrong-05.d6e64106.jpeg") 1x );
+      url("neil-armstrong-05.d6e64106.jpeg") 1x );  
   }
   100% {
     /* content: url('../img/neil-armstrong-06.jpg'); */
-
     content: -webkit-image-set(
       url("neil-armstrong-06.302b56e5.webp") 1x,
       url("neil-armstrong-06.30582d6e.jpeg") 1x );
-
+    
     content: image-set(
       url("neil-armstrong-06.302b56e5.webp") 1x,
-      url("neil-armstrong-06.30582d6e.jpeg") 1x );
+      url("neil-armstrong-06.30582d6e.jpeg") 1x );      
   }
 }
 
 @keyframes animation-buzz-aldrin {
   0% {
     /* content: url('../img/buzz-aldrin-01.jpg'); */
-
+    
     content: -webkit-image-set(
       url("buzz-aldrin-01.69eeb4a7.webp") 1x,
       url("buzz-aldrin-01.b86eccf3.jpeg") 1x );

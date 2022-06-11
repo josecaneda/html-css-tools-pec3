@@ -1,8 +1,6 @@
 
 import toast from 'toast-me';
 
-
-
 const quizContainer = document.getElementById('quiz');
 const resultsContainer = document.getElementById('quiz-results');
 const submitButton = document.getElementById('quiz-submit');
@@ -137,10 +135,7 @@ const myQuestions = [
 
 window.onload = function() {
     buildQuiz();
-    submitButton.addEventListener('click', showResults);
-    
-      
-    
+    submitButton.addEventListener('click', showResults);    
 }
 
 
