@@ -134,5 +134,17 @@ const biographyTextAlanShepard = `<p>Nació el 18 de noviembre de 1923 en el est
     Tras su asignación en USNTPS, fue asignado al Escuadrón de Ataque 172 (VA-172) en NAS 
     Cecil Field, Florida, volando el A-4 Skyhawk desde 1962 hasta 1963, tiempo durante el 
     cual fue seleccionado como astronauta de la NASA.</p>`;
+window.onload = function() {
+    const bioSumNeilArmstrong = document.getElementById('biography-summary-neil-armstrong');
+    const bioSumBuzzAldrin = document.getElementById('biography-summary-buzz-aldrin');
+    const bioSumPeteConrad = document.getElementById('biography-summary-pete-conrad');
+    const bioSumAlanLBean = document.getElementById('biography-summary-alan-l-bean');
+    const bioSumAlanShepard = document.getElementById('biography-summary-alan-shepard');
+    bioSumNeilArmstrong.innerHTML = biographyTextNeilArmstrong.replaceAll('<p>', '').replaceAll('</p>', '');
+    bioSumBuzzAldrin.innerHTML = biographyTextBuzzAldrin.replaceAll('<p>', '').replaceAll('</p>', '');
+    bioSumPeteConrad.innerHTML = biographyTextPeteConrad.replaceAll('<p>', '').replaceAll('</p>', '');
+    bioSumAlanLBean.innerHTML = biographyTextAlanBean.replaceAll('<p>', '').replaceAll('</p>', '');
+    bioSumAlanShepard.innerHTML = biographyTextAlanShepard.replaceAll('<p>', '').replaceAll('</p>', '');
+};
 
 //# sourceMappingURL=biographies.1396583b.js.map
