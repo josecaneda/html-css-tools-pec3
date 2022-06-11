@@ -142,15 +142,13 @@ const biographyTextAlanShepard = `<p>Nació el 18 de noviembre de 1923 en el est
 window.onload = function() {
     let bioSumNeilArmstrong, bioSumBuzzAldrin, bioSumPeteConrad, bioSumAlanLBean, bioSumAlanShepard;
     let bioNeilArmstrong, bioBuzzAldrin, bioPeteConrad, bioAlanLBean, bioAlanShepard;  
+   
     if (bioSumNeilArmstrong = document.getElementById('biography-summary-neil-armstrong')) bioSumNeilArmstrong.innerHTML = biographyTextNeilArmstrong.replaceAll('<p>', '').replaceAll('</p>', '');
     if (bioSumBuzzAldrin = document.getElementById('biography-summary-buzz-aldrin')) bioSumBuzzAldrin.innerHTML = biographyTextBuzzAldrin.replaceAll('<p>', '').replaceAll('</p>', '');
     if (bioSumPeteConrad = document.getElementById('biography-summary-pete-conrad')) bioSumPeteConrad.innerHTML = biographyTextPeteConrad.replaceAll('<p>', '').replaceAll('</p>', '');
     if (bioSumAlanLBean = document.getElementById('biography-summary-alan-l-bean')) bioSumAlanLBean.innerHTML = biographyTextAlanBean.replaceAll('<p>', '').replaceAll('</p>', '');
     if (bioSumAlanShepard = document.getElementById('biography-summary-alan-shepard')) bioSumAlanShepard.innerHTML = biographyTextAlanShepard.replaceAll('<p>', '').replaceAll('</p>', '');
     
-    
-    
-
     if (bioNeilArmstrong = document.getElementById('biography-neil-armstrong')) bioNeilArmstrong.innerHTML = biographyTextNeilArmstrong;
     if (bioBuzzAldrin = document.getElementById('biography-buzz-aldrin')) bioBuzzAldrin.innerHTML = biographyTextBuzzAldrin;
     if (bioPeteConrad = document.getElementById('biography-pete-conrad')) bioPeteConrad.innerHTML = biographyTextPeteConrad;
